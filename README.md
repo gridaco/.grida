@@ -1,0 +1,2 @@
+# .bridged
+.bridged configuration specs
