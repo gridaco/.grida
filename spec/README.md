@@ -1,0 +1,1 @@
+# .bridged spec reader

@@ -1,0 +1,8 @@
+{
+    "name": "@bridged.xyz/dot-brodged-spec",
+    "description": "bridged project configs I/O manager",
+    "author": "bridged.xyz authors",
+    "private": false,
+    "license": "MIT",
+    "repository": "https://github.com/bridgedxyz/.bridged.git"
+}
