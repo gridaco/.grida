@@ -12,7 +12,7 @@
 
 
 ## For faster working cycle
-- .bridged is default setting suppoorted by bridged's [vscode-extension](https://github.com/vscode-extension)
+- .bridged is default setting suppoorted by bridged's [vscode-extension](https://github.com/bridgedxyz/vscode-extension)
 
 
 ## Saved information
